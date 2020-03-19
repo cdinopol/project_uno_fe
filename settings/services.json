@@ -4,7 +4,7 @@
 			"service_id": "235",
 			"service_name": "Cocos Analytics",
 			"service_icon": "https://account.cocos.com/client/3f8f31ccf66995e183044f167c092395.png",
-			"service_desc": "Provides core and basic data，simple and easy to use standardized interface features，best-accurated data</p>\n",
+			"service_desc": "Provides core and basic data，simple and easy to use standardized interface features，best-accurated data\n",
 			"service_title": "Accurate understanding of the game's new，active，retained，paid and other data",
 			"service_guide_url": "https://n-analytics.cocos.com/docs/",
 			"service_sample_url": "https://github.com/CocosService/cocosAnalyticsDemo",
@@ -34,7 +34,9 @@
 			"build_platform": [],
 			"require_verify": 0,
 			"service_price": "",
-			"service_protocol": "Game for the first time to open the service，the Cocos after notification service for game on service and initialization parameters，service party may according to need to get your Cocos account information，such as account basic information，game basic information，account balance，click on the confirm open button that is seen as you agree to the service to access your account information，See <a href='http://auth.cocos.com/CocosServiceAgreement.html'>Cocos user service agreement </a> and <a href='http://auth.cocos.com/PrivacyPolicy.html'>Cocos privacy policy </a>"
+			"service_protocol": "Game for the first time to open the service，the Cocos after notification service for game on service and initialization parameters，service party may according to need to get your Cocos account information，such as account basic information，game basic information，account balance，click on the confirm open button that is seen as you agree to the service to access your account information，See <a href='http://auth.cocos.com/CocosServiceAgreement.html'>Cocos user service agreement </a> and <a href='http://auth.cocos.com/PrivacyPolicy.html'>Cocos privacy policy </a>",
+			"service_group": "",
+			"not_service": false
 		},
 		{
 			"service_id": "241",
@@ -66,7 +68,9 @@
 			"build_platform": [],
 			"require_verify": 0,
 			"service_price": "The service according to usage billing，<a href='https://www.matchvs.com/price'> <font color='#DDDDDD'> billing rules </font> </a>，the fees incurred by the third party from your <a href='https://account.cocos.com/#/finance/finance_list'> <font color='#DDDDDD'> Cocos balances </font></a>.",
-			"service_protocol": "Game for the first time to open the service，service party may according to need to get your Cocos account information，click on the confirm open button that is seen as you agree to the service to access your account information，See <a href='http://auth.cocos.com/CocosServiceAgreement.html'>Cocos user service agreement </a> and <a href='http://auth.cocos.com/PrivacyPolicy.html'>Cocos privacy policy </a>"
+			"service_protocol": "Game for the first time to open the service，service party may according to need to get your Cocos account information，click on the confirm open button that is seen as you agree to the service to access your account information，See <a href='http://auth.cocos.com/CocosServiceAgreement.html'>Cocos user service agreement </a> and <a href='http://auth.cocos.com/PrivacyPolicy.html'>Cocos privacy policy </a>",
+			"service_group": "",
+			"not_service": false
 		},
 		{
 			"service_id": "242",
@@ -95,7 +99,9 @@
 			"build_platform": [],
 			"require_verify": 1,
 			"service_price": "The service according to usage billing，<a href='https://www.agora.io/en/price/'> <font color='#DDDDDD'> billing rules </font> </a>，the fees incurred by the third party from your <a href='https://account.cocos.com/#/finance/finance_list'> <font color='#DDDDDD'> Cocos balances </font></a>.",
-			"service_protocol": "Game for the first time to open the service，service party may according to need to get your Cocos account information，click on the confirm open button that is seen as you agree to the service to access your account information，See <a href='http://auth.cocos.com/CocosServiceAgreement.html'>Cocos user service agreement </a> and <a href='http://auth.cocos.com/PrivacyPolicy.html'>Cocos privacy policy</a>"
+			"service_protocol": "Game for the first time to open the service，service party may according to need to get your Cocos account information，click on the confirm open button that is seen as you agree to the service to access your account information，See <a href='http://auth.cocos.com/CocosServiceAgreement.html'>Cocos user service agreement </a> and <a href='http://auth.cocos.com/PrivacyPolicy.html'>Cocos privacy policy</a>",
+			"service_group": "",
+			"not_service": false
 		}
 	],
 	"game": {
