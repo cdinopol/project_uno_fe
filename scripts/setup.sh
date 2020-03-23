@@ -9,5 +9,5 @@ sed "s/__GOOGLE_APP_ID__/$GOOGLE_APP_ID/g; s/__FB_APP_ID__/$FB_APP_ID/g" templat
 sed "s/__FB_APP_ID__/$FB_APP_ID/g" templates/AndroidManifest.xml > \
 ../build/jsb-link/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml
 
-sed "s/__XXTEA_KEY__/$XXTEA_KEY/g" builder.json > \
+sed "s/__XXTEA_KEY__/$XXTEA_KEY/g" templates/builder.json > \
 ../settings/builder.json
