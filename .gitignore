@@ -68,6 +68,4 @@ Thumbs.db
 #/////////////////////////////////////////////////////////////////////////////
 
 /scripts/env.sh
-/settings/builder.json
-/build/jsb-link/frameworks/runtime-src/proj.android-studio/app/AndroidManifest.xml
 /build/jsb-link/frameworks/runtime-src/proj.android-studio/app/res/values/strings.xml
