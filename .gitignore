@@ -5,7 +5,6 @@
 /library/
 /temp/
 /local/
-/build/
 
 #/////////////////////////////////////////////////////////////////////////////
 # npm files
@@ -61,5 +60,5 @@ Thumbs.db
 /build/jsb-link/src/
 /build/jsb-link/publish/
 /build/jsb-link/js*backup*/
-/build/jsb-link/backup*/
+/build/jsb-link/backup*
 /build/jsb-link/frameworks/runtime-src/proj.android-studio/app/.externalNativeBuild/
