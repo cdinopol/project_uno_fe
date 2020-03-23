@@ -44,6 +44,6 @@
     "orientation": "portrait",
     "subContext": ""
   },
-  "xxteaKey": "4abc71bb-6b4f-41",
+  "xxteaKey": "__XXTEA_KEY__",
   "zipCompressJs": true
 }
