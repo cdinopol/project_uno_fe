@@ -3,5 +3,6 @@
     <string name="app_name" translatable="false">Heathens</string>
     <string name="google_app_id">__GOOGLE_APP_ID__</string>
     <string name="facebook_app_id">__FB_APP_ID__</string>
+    <string name="fb_content_provider">com.facebook.app.FacebookContentProvider___FB_APP_ID__</string>
     <string name="fb_login_protocol_scheme">fb__FB_APP_ID__</string>
 </resources>

@@ -18,7 +18,6 @@ PROJECT UNO MOBILE APP
 	```
 	export GOOGLE_APP_ID="xxx"
 	export FB_APP_ID="xxx"
-	export XXTEA_KEY="xxx"
 	...
 	```
 	3. Run setup script
